@@ -14,4 +14,4 @@ Documentation: see `/docs` for Installation, API, User Manual, Architecture, Ass
 
 - Website: https://video-filter-iota.vercel.app/
 - GitHub: https://github.com/jnvshubham7/video_project_assig
-- YouTube Demo: https://www.youtube.com/watch?v=illcj5PTx3E
+- YouTube Demo: https://youtu.be/zLKgZDH6544
