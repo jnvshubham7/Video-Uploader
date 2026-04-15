@@ -36,6 +36,8 @@ export function OrganizationProvider({ children }: { children: ReactNode }) {
     }
   });
 
+  
+
   // Store organization change listeners
   const [changeListeners, setChangeListeners] = useState<Set<(org: Organization | null) => void>>(new Set());
 
