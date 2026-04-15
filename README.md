@@ -4,6 +4,7 @@ This repository implements a full-stack video platform (video upload, processing
 
 Structure:
 
+
 - `/backend` - Node.js + Express + MongoDB backend
 - `/frontend` - React + Vite frontend
 

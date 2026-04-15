@@ -24,6 +24,8 @@ COPY backend/package*.json ./
 # Expose port
 EXPOSE 5000
 
+
+
 # Set NODE_ENV for production and force static ffmpeg-static binaries
 ENV NODE_ENV=production
 ENV FFMPEG_PATH=/app/node_modules/ffmpeg-static/ffmpeg
